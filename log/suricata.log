@@ -1,0 +1,52 @@
+[40580 - Suricata-Main] 2026-07-04 02:16:27 Notice: suricata: This is Suricata version 8.0.5 RELEASE running in SYSTEM mode
+[40580 - Suricata-Main] 2026-07-04 02:16:27 Info: cpu: CPUs/cores online: 12
+[40580 - Suricata-Main] 2026-07-04 02:16:27 Notice: runmodes: thread stack size of 0 too small: setting to 512k
+[40580 - Suricata-Main] 2026-07-04 02:16:27 Info: suricata: Setting engine mode to IDS mode by default
+[40580 - Suricata-Main] 2026-07-04 02:16:27 Info: exception-policy: master exception-policy set to: auto
+[29124 - Suricata-Main] 2026-07-04 02:16:43 Notice: suricata: This is Suricata version 8.0.5 RELEASE running in SYSTEM mode
+[29124 - Suricata-Main] 2026-07-04 02:16:43 Info: cpu: CPUs/cores online: 12
+[29124 - Suricata-Main] 2026-07-04 02:16:43 Notice: runmodes: thread stack size of 0 too small: setting to 512k
+[29124 - Suricata-Main] 2026-07-04 02:16:43 Info: suricata: Setting engine mode to IDS mode by default
+[29124 - Suricata-Main] 2026-07-04 02:16:43 Info: exception-policy: master exception-policy set to: auto
+[24948 - Suricata-Main] 2026-07-04 02:16:52 Notice: suricata: This is Suricata version 8.0.5 RELEASE running in SYSTEM mode
+[24948 - Suricata-Main] 2026-07-04 02:16:52 Info: cpu: CPUs/cores online: 12
+[24948 - Suricata-Main] 2026-07-04 02:16:52 Notice: runmodes: thread stack size of 0 too small: setting to 512k
+[24948 - Suricata-Main] 2026-07-04 02:16:52 Info: suricata: Setting engine mode to IDS mode by default
+[24948 - Suricata-Main] 2026-07-04 02:16:52 Info: exception-policy: master exception-policy set to: auto
+[32448 - Suricata-Main] 2026-07-04 02:18:11 Notice: suricata: This is Suricata version 8.0.5 RELEASE running in SYSTEM mode
+[32448 - Suricata-Main] 2026-07-04 02:18:11 Info: cpu: CPUs/cores online: 12
+[32448 - Suricata-Main] 2026-07-04 02:18:11 Notice: runmodes: thread stack size of 0 too small: setting to 512k
+[32448 - Suricata-Main] 2026-07-04 02:18:11 Info: suricata: Setting engine mode to IDS mode by default
+[32448 - Suricata-Main] 2026-07-04 02:18:11 Info: exception-policy: master exception-policy set to: auto
+[19476 - Suricata-Main] 2026-07-04 02:25:44 Notice: suricata: This is Suricata version 8.0.5 RELEASE running in SYSTEM mode
+[19476 - Suricata-Main] 2026-07-04 02:25:44 Info: cpu: CPUs/cores online: 12
+[19476 - Suricata-Main] 2026-07-04 02:25:44 Notice: runmodes: thread stack size of 0 too small: setting to 512k
+[19476 - Suricata-Main] 2026-07-04 02:25:44 Info: suricata: Running suricata under test mode
+[19476 - Suricata-Main] 2026-07-04 02:25:44 Info: suricata: Setting engine mode to IDS mode by default
+[19476 - Suricata-Main] 2026-07-04 02:25:44 Info: exception-policy: master exception-policy set to: auto
+[19476 - Suricata-Main] 2026-07-04 02:25:44 Info: coredump-config: Configuring core dump is not yet supported on Windows.
+[19476 - Suricata-Main] 2026-07-04 02:25:44 Info: logopenfile: fast output device (regular) initialized: fast.log
+[19476 - Suricata-Main] 2026-07-04 02:25:44 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[19476 - Suricata-Main] 2026-07-04 02:25:44 Info: logopenfile: stats output device (regular) initialized: stats.log
+[19476 - Suricata-Main] 2026-07-04 02:25:44 Warning: classification-config: could not open: "C:\\Program Files\\Suricata\\classification.config": No such file or directory
+[19476 - Suricata-Main] 2026-07-04 02:25:44 Error: classification-config: please check the "classification-file" option in your suricata.yaml file
+[19476 - Suricata-Main] 2026-07-04 02:25:44 Error: suricata: initializing detection engine failed.
+[1884 - Suricata-Main] 2026-07-04 02:28:36 Notice: suricata: This is Suricata version 8.0.5 RELEASE running in SYSTEM mode
+[1884 - Suricata-Main] 2026-07-04 02:28:36 Info: cpu: CPUs/cores online: 12
+[1884 - Suricata-Main] 2026-07-04 02:28:36 Notice: runmodes: thread stack size of 0 too small: setting to 512k
+[1884 - Suricata-Main] 2026-07-04 02:28:36 Info: suricata: Running suricata under test mode
+[1884 - Suricata-Main] 2026-07-04 02:28:36 Info: suricata: Setting engine mode to IDS mode by default
+[1884 - Suricata-Main] 2026-07-04 02:28:36 Info: exception-policy: master exception-policy set to: auto
+[1884 - Suricata-Main] 2026-07-04 02:28:36 Info: coredump-config: Configuring core dump is not yet supported on Windows.
+[1884 - Suricata-Main] 2026-07-04 02:28:36 Info: logopenfile: fast output device (regular) initialized: fast.log
+[1884 - Suricata-Main] 2026-07-04 02:28:36 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[1884 - Suricata-Main] 2026-07-04 02:28:36 Info: logopenfile: stats output device (regular) initialized: stats.log
+[1884 - Suricata-Main] 2026-07-04 02:28:36 Info: detect: 1 rule files processed. 1 rules successfully loaded, 0 rules failed, 0 rules skipped
+[1884 - Suricata-Main] 2026-07-04 02:28:36 Warning: threshold-config: Error opening file: "C:\Program Files\Suricata\\\threshold.config": No such file or directory
+[1884 - Suricata-Main] 2026-07-04 02:28:36 Info: detect: 1 signatures processed. 1 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+[1884 - Suricata-Main] 2026-07-04 02:28:36 Notice: suricata: Configuration provided was successfully loaded. Exiting.
+[35984 - Suricata-Main] 2026-07-04 02:29:11 Notice: suricata: This is Suricata version 8.0.5 RELEASE running in SYSTEM mode
+[35984 - Suricata-Main] 2026-07-04 02:29:11 Info: cpu: CPUs/cores online: 12
+[35984 - Suricata-Main] 2026-07-04 02:29:11 Notice: runmodes: thread stack size of 0 too small: setting to 512k
+[35984 - Suricata-Main] 2026-07-04 02:29:11 Info: suricata: Setting engine mode to IDS mode by default
+[35984 - Suricata-Main] 2026-07-04 02:29:11 Info: exception-policy: master exception-policy set to: auto
